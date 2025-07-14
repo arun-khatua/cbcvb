@@ -1,0 +1,22 @@
+#side_main{
+    -fx-background-color: #4c4949;
+}
+#main_frame{
+    -fx-background-color: #433e3e;
+}
+#projects{
+    -fx-background-color: #393955;
+}
+#new_button{
+    -fx-background-color: #706c6c;
+}
+#open_button{
+    -fx-background-color: #706c6c;
+}
+#search{
+    -fx-background-color: #706c6c;
+
+}
+#learn{
+    -fx-background-color: #4c4949;
+}

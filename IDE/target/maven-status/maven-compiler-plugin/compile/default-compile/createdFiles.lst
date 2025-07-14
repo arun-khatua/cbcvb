@@ -1,0 +1,10 @@
+com/example/ide/ide/newproject/newprojectui.class
+com/example/ide/ide/splash/splashcontroller.class
+com/example/ide/ide/FileChooserController.class
+module-info.class
+com/example/ide/ide/HelloController.class
+com/example/ide/ide/main/MainUI.class
+com/example/ide/ide/newproject/Newproject.class
+com/example/ide/ide/splash/Splash.class
+com/example/ide/ide/HelloApplication.class
+com/example/ide/ide/Filechooser.class
